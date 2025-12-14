@@ -1,3 +1,4 @@
+
 <!--
  █████╗ ███████╗████████╗██╗  ██╗███████╗██████╗ ███████╗██████╗  █████╗ ███╗   ███╗███████╗
 ██╔══██╗██╔════╝╚══██╔══╝██║  ██║██╔════╝██╔══██╗██╔════╝██╔══██╗██╔══██╗████╗ ████║██╔════╝
@@ -6,7 +7,10 @@
 ██║  ██║███████║   ██║   ██║  ██║███████╗██║  ██║███████╗██║  ██║██║  ██║██║ ╚═╝ ██║███████║
 ╚═╝  ╚═╝╚══════╝   ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝
 -->
-
+> **⚠️ Archived / Moved**
+>
+> This project has been archived and is no longer maintained.
+> The active development continues here: **https://github.com/ind4skylivey/aetherframe**
 <p align="center">
   <img src="assets/banner-ecosystem.png" alt="AetherFrame Neon Hero" width="960">
 </p>
